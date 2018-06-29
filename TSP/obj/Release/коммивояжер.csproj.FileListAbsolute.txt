@@ -1,0 +1,8 @@
+C:\Users\IgoR\Desktop\для универа\коммивояжер\bin\Release\коммивояжер.exe.config
+C:\Users\IgoR\Desktop\для универа\коммивояжер\bin\Release\коммивояжер.exe
+C:\Users\IgoR\Desktop\для универа\коммивояжер\bin\Release\коммивояжер.pdb
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Release\коммивояжер.Properties.Resources.resources
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Release\коммивояжер.TspForm.resources
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Release\коммивояжер.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Release\коммивояжер.exe
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Release\коммивояжер.pdb

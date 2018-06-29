@@ -1,0 +1,37 @@
+C:\Users\IgoR\Documents\Visual Studio 2012\Projects\коммивояжер\bin\Debug\коммивояжер.exe.config
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\bin\Debug\коммивояжер.exe.config
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\bin\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\bin\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.Properties.Resources.resources
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\диплом\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.TspForm.resources
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\bin\Debug\коммивояжер.exe.config
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\bin\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\bin\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.Properties.Resources.resources
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.TspForm.resources
+C:\Users\IgoR\Desktop\ветвей и границ\коммивояжер\obj\Debug\коммивояжер.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\для универа\коммивояжер\bin\Debug\коммивояжер.exe.config
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\для универа\коммивояжер\bin\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\для универа\коммивояжер\bin\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Debug\коммивояжер.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Debug\коммивояжер.Properties.Resources.resources
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Debug\коммивояжер.TspForm.resources
+C:\Users\IgoR\Desktop\для универа\коммивояжер\obj\Debug\коммивояжер.csproj.GenerateResource.Cache
+C:\Users\IgoR\Desktop\программа\коммивояжер\bin\Debug\коммивояжер.exe.config
+C:\Users\IgoR\Desktop\программа\коммивояжер\obj\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\программа\коммивояжер\obj\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\программа\коммивояжер\bin\Debug\коммивояжер.exe
+C:\Users\IgoR\Desktop\программа\коммивояжер\bin\Debug\коммивояжер.pdb
+C:\Users\IgoR\Desktop\программа\коммивояжер\obj\Debug\коммивояжер.csprojResolveAssemblyReference.cache
+C:\Users\IgoR\Desktop\программа\коммивояжер\obj\Debug\коммивояжер.Properties.Resources.resources
+C:\Users\IgoR\Desktop\программа\коммивояжер\obj\Debug\коммивояжер.TspForm.resources
+C:\Users\IgoR\Desktop\программа\коммивояжер\obj\Debug\коммивояжер.csproj.GenerateResource.Cache
